@@ -10,7 +10,6 @@ Dataset used : https://universe.roboflow.com/denny-pmzkg/plat-nomor-kendaraan-wx
 
 # Summary
 Both Models are trained using the dataset with 70% of them (398 images) used as training dataset, 20% (114 images) as validation dataset, and the rest 10% (56 images) as test dataset.
-<br/>
 Models can also be used on a single image/video and using EasyOCR to detect characters found in the license plate.
 
 # Demo Images
