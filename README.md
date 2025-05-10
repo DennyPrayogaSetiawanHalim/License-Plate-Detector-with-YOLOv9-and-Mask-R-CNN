@@ -14,7 +14,7 @@ Models can also be used on a single image/video and using EasyOCR to detect char
 
 # Demo Images
 YOLOv9
-https://github.com/DennyPrayogaSetiawanHalim/License-Plate-Detector-with-YOLOv9-and-Mask-R-CNN/issues/1
+https://github.com/DennyPrayogaSetiawanHalim/License-Plate-Detector-with-YOLOv9-and-Mask-R-CNN/issues/2
 <br/>
 MaskR-CNN
 https://github.com/DennyPrayogaSetiawanHalim/License-Plate-Detector-with-YOLOv9-and-Mask-R-CNN/issues/1
