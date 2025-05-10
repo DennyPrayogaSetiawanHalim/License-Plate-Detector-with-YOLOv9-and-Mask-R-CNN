@@ -17,9 +17,3 @@ YOLOv9
 
 <br/>
 MaskR-CNN
-
-# Demo Videos
-YOLOv9
-
-<br/>
-MaskR-CNN
